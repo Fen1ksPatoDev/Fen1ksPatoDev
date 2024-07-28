@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fen1ks</h1>
-<h3 align="left">Connect with me: <a href="[Discord](https://discord.com/users/1022917746721300590)" target="_blank" rel="noreferrer"></h3>
-<p align="left">
+<h1 align="center">Yo wassap</h1>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
